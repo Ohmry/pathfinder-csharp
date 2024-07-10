@@ -1,0 +1,11 @@
+/usr/local/repository/pathfinder-csharp/PathFinder/bin/Debug/net8.0/PathFinder.deps.json
+/usr/local/repository/pathfinder-csharp/PathFinder/bin/Debug/net8.0/PathFinder.dll
+/usr/local/repository/pathfinder-csharp/PathFinder/bin/Debug/net8.0/PathFinder.pdb
+/usr/local/repository/pathfinder-csharp/PathFinder/obj/Debug/net8.0/PathFinder.GeneratedMSBuildEditorConfig.editorconfig
+/usr/local/repository/pathfinder-csharp/PathFinder/obj/Debug/net8.0/PathFinder.AssemblyInfoInputs.cache
+/usr/local/repository/pathfinder-csharp/PathFinder/obj/Debug/net8.0/PathFinder.AssemblyInfo.cs
+/usr/local/repository/pathfinder-csharp/PathFinder/obj/Debug/net8.0/PathFinder.csproj.CoreCompileInputs.cache
+/usr/local/repository/pathfinder-csharp/PathFinder/obj/Debug/net8.0/PathFinder.dll
+/usr/local/repository/pathfinder-csharp/PathFinder/obj/Debug/net8.0/refint/PathFinder.dll
+/usr/local/repository/pathfinder-csharp/PathFinder/obj/Debug/net8.0/PathFinder.pdb
+/usr/local/repository/pathfinder-csharp/PathFinder/obj/Debug/net8.0/ref/PathFinder.dll

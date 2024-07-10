@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/usr/local/repository/pathfinder-csharp/PathFinderTest/PathFinderTest.csproj": {}
+  },
+  "projects": {
+    "/usr/local/repository/pathfinder-csharp/PathFinder/PathFinder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/usr/local/repository/pathfinder-csharp/PathFinder/PathFinder.csproj",
+        "projectName": "PathFinder",
+        "projectPath": "/usr/local/repository/pathfinder-csharp/PathFinder/PathFinder.csproj",
+        "packagesPath": "/Users/ohmry/.nuget/packages/",
+        "outputPath": "/usr/local/repository/pathfinder-csharp/PathFinder/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ohmry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/usr/local/repository/pathfinder-csharp/PathFinderTest/PathFinderTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/usr/local/repository/pathfinder-csharp/PathFinderTest/PathFinderTest.csproj",
+        "projectName": "PathFinderTest",
+        "projectPath": "/usr/local/repository/pathfinder-csharp/PathFinderTest/PathFinderTest.csproj",
+        "packagesPath": "/Users/ohmry/.nuget/packages/",
+        "outputPath": "/usr/local/repository/pathfinder-csharp/PathFinderTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ohmry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/usr/local/repository/pathfinder-csharp/PathFinder/PathFinder.csproj": {
+                "projectPath": "/usr/local/repository/pathfinder-csharp/PathFinder/PathFinder.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

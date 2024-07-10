@@ -1,0 +1,4 @@
+/usr/local/repository/pathfinder-csharp/obj/Debug/net8.0/pathfinder-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/usr/local/repository/pathfinder-csharp/obj/Debug/net8.0/pathfinder-csharp.AssemblyInfoInputs.cache
+/usr/local/repository/pathfinder-csharp/obj/Debug/net8.0/pathfinder-csharp.AssemblyInfo.cs
+/usr/local/repository/pathfinder-csharp/obj/Debug/net8.0/pathfinder-csharp.csproj.CoreCompileInputs.cache
